@@ -92,14 +92,14 @@ Me chamo Gabriel Sartorato, sou estudante de Análise e Desenvolvimento de Siste
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-iota-eight-45.vercel.app/api/index/?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
+    src="https://github-readme-stats-iota-eight-45.vercel.app/api/index/?username=undatedspark&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=86400&include_all_commits=true&token=" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-iota-eight-45.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-iota-eight-45.vercel.app/api/top-langs/?username=undatedspark&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
