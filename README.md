@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Gabriel Sartorato, sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e automação, com foco em Python, C++ e JavaScript. Atualmente, busco aplicar meus conhecimentos em IA e suporte técnico para criar soluções inteligentes e eficientes.
+Me chamo Gabriel Orph Sartorato, sou estudante de Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e automação, com foco em Python, C++ e JavaScript. Atualmente, busco aplicar meus conhecimentos em IA e suporte técnico para criar soluções inteligentes e eficientes.
  
 #
 
